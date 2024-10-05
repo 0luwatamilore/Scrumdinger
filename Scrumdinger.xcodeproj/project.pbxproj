@@ -14,6 +14,7 @@
 		3F3AA5EF2CB11D6D0049C2DD /* Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AA5EE2CB11D6D0049C2DD /* Theme.swift */; };
 		3F3AA5F12CB122020049C2DD /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AA5F02CB122020049C2DD /* DailyScrum.swift */; };
 		3F3AA5F32CB1AE5C0049C2DD /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AA5F22CB1AE5C0049C2DD /* CardView.swift */; };
+		3F3AA5F52CB1B9B40049C2DD /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F3AA5F42CB1B9B40049C2DD /* TrailingIconLabelStyle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		3F3AA5EE2CB11D6D0049C2DD /* Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theme.swift; sourceTree = "<group>"; };
 		3F3AA5F02CB122020049C2DD /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		3F3AA5F22CB1AE5C0049C2DD /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		3F3AA5F42CB1B9B40049C2DD /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			children = (
 				3F3AA5EE2CB11D6D0049C2DD /* Theme.swift */,
 				3F3AA5F02CB122020049C2DD /* DailyScrum.swift */,
+				3F3AA5F42CB1B9B40049C2DD /* TrailingIconLabelStyle.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F3AA5F12CB122020049C2DD /* DailyScrum.swift in Sources */,
+				3F3AA5F52CB1B9B40049C2DD /* TrailingIconLabelStyle.swift in Sources */,
 				3F3AA5EF2CB11D6D0049C2DD /* Theme.swift in Sources */,
 				3F3AA5E22CB0D11B0049C2DD /* MeetingView.swift in Sources */,
 				3F3AA5E02CB0D11B0049C2DD /* ScrumdingerApp.swift in Sources */,
